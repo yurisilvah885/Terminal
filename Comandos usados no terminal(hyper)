@@ -1,0 +1,5 @@
+mkdir(criação de diretório)
+-ls (lista de arquivos ou pastas do diretório)
+cd.(navegando pelas pastas dos diretórios)
+mv file.txt(usado para mover ou renomear arquivos e pastas)
+rm(usado para remover arquivos ou pastas)
